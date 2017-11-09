@@ -1,0 +1,6 @@
+framework module Pods_DemoSQLite {
+  umbrella header "Pods-DemoSQLite-umbrella.h"
+
+  export *
+  module * { export * }
+}

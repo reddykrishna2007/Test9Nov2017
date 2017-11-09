@@ -1,0 +1,17 @@
+PODS:
+  - Eureka (3.1.0)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+
+DEPENDENCIES:
+  - Eureka
+  - SQLite.swift
+
+SPEC CHECKSUMS:
+  Eureka: d6725c38d0dcdceaa331d1468f75e76315715ae0
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+
+PODFILE CHECKSUM: 2a1ad2c67c2750bbc66792e3bd174e1e62d3b60d
+
+COCOAPODS: 1.1.1
